@@ -1,4 +1,4 @@
-# Complex-Networks---Implementation-Of-Models
+# Complex-Networks-Implementation-Of-Models
 
 I developed functions to generate various network models, each with different parameters, which were
 then used to generate networks of various sizes. These functions were implemented using Python
